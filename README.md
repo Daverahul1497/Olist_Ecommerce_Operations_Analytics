@@ -7,10 +7,12 @@ A two-page Power BI report examining order volume, item sales value, delivery pu
 ## Dashboard previews
 
 ### Executive Overview
-![Executive Overview](Screenshots/executive_overview.png)
+
+![Executive Overview](Screenshots/Dashboard_Executive_Overview.png)
 
 ### Delivery & Fulfilment
-![Delivery & Fulfilment](Screenshots/delivery_fulfilment_efficiency.png)
+
+![Delivery & Fulfilment](Screenshots/Dashboard_Delivery_%26_Fulfilment.png)
 
 ## Key findings
 
