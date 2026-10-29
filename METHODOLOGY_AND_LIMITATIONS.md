@@ -45,7 +45,7 @@ Average delivery duration (12.50 days) measures elapsed time for the eligible po
 
 ## Execution and reproducibility
 
-The consolidated SQL assumes that the nine raw tables have been imported into MySQL schema `ecommerce_analytics`. It runs diagnostic queries and replaces two views using `CREATE OR REPLACE VIEW`. It does not import raw CSVs, create raw table schemas, install Power BI, or configure credentials.
+The consolidated SQL assumes that the nine raw tables have been imported into MySQL schema `ecommerce_analytics` using the import wizard. It runs diagnostic queries and replaces two views using `CREATE OR REPLACE VIEW`. It does not import raw CSVs, create raw table schemas, install Power BI, or configure credentials.
 
 Reference metrics are previously validated project outputs, **not newly executed results** from this repository package. Recheck them after changing input data, SQL or dashboard filters.
 
